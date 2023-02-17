@@ -1,3 +1,7 @@
+/*
+In this python code, using the pandas, seaborn and matplotlib libraries, the temperatures of the countries were analyzed on a sample dataset. 
+A concrete visualization of the analysis made using the seaborn and matplotlib visualization libraries is provided.
+*/
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
